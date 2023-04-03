@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool:
+pool:santhu_agent
   vmImage: ubuntu-latest
 
 steps:
